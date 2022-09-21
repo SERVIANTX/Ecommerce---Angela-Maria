@@ -1,0 +1,12 @@
+.header--market-place-4 .header__top {
+    background: #f8f8f8;
+}
+
+.header--market-place-4 .header__content {
+    background: linear-gradient(130deg, #fdc527 0%, #fea01a 100%) !important;
+}
+
+.ps-btn, button.ps-btn {
+    background: linear-gradient(130deg, #fdc527 0%, #fea01a 100%) !important;
+}
+
